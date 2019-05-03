@@ -1,0 +1,52 @@
+html,
+*
+{
+	border: none;
+    background-color: #300;
+    color:#EFEFEF;
+	text-align:center;
+    
+}
+
+header
+{
+	font-size: 60px;
+	font-family: Impact;
+	line-height:80px;
+	  padding: 10% 0;
+
+
+}
+
+div, #debt-clock
+{
+  font-size: 100px;
+  font-family: Monospace;
+  background-color:#500;
+  line-height:120px;
+  
+
+}
+
+footer
+{
+	line-height:10px;
+	font-family:Monospace;
+}
+
+	
+a
+{
+    color: #11FF11;       
+    text-decoration: none;
+    text-align: right;
+
+
+}
+
+a:hover 
+{
+    color: #11FF11;        
+    text-decoration: underline;
+
+}
